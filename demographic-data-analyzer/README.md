@@ -1,8 +1,11 @@
 # Demographic Data Analyzer
 
-This is a solution to the "Demographic Data Analyzer" project from the freeCodeCamp Python course 
-(https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/demographic-data-analyzer).
-The project analyzes demographic data from the 1994 Census database using Python and Pandas.
+This project is a solution to the **Demographic Data Analyzer** project from FreeCodeCamp's 
+[Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/demographic-data-analyzer) course.
+
+The project analyzes demographic data from the 1994 Census database using Python and Pandas. 
+
+> Note: This project uses starter code provided by freeCodeCamp. The main task was to implement the function `calculate_demographic_data()` in `demographic_data_analyzer.py` to perform the required analysis. Unit tests were used to verify the solution.
 
 ---
 
