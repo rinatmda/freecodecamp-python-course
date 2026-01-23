@@ -32,5 +32,4 @@ Python | Pandas | NumPy | Matplotlib | Seaborn | Data Cleaning | Feature Enginee
 - `requirements.txt` — project dependencies  
 - `medical_examination.csv` — dataset
 
----
 
