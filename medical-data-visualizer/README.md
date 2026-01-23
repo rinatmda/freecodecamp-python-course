@@ -1,11 +1,8 @@
 # Medical Data Visualizer
 
-This is the boilerplate for the Medical Data Visualizer project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/medical-data-visualizer
-
-# Medical Data Visualizer
-
-Python data analysis and visualization project using medical examination data.  
-Completed as part of **freeCodeCamp’s Data Analysis with Python** certification, starting from a provided starter code.
+This project is a solution to the **Medical Data Visualizer** project from freeCodeCamp's 
+[Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/medical-data-visualizer) course.  
+It was completed starting from the provided starter code, with all core analysis and visualizations implemented by the author.
 
 ---
 
@@ -22,6 +19,13 @@ Completed as part of **freeCodeCamp’s Data Analysis with Python** certificatio
 
 ## Skills & Tools
 
-Python | Pandas | NumPy | Matplotlib | Seaborn | Data Cleaning | EDA | Feature Engineering
+Python | Pandas | NumPy | Matplotlib | Seaborn | Data Cleaning | Feature Engineering | Exploratory Data Analysis (EDA)
 
 ---
+
+## Project Structure
+
+- `medical_data_visualizer.py` — data processing and plotting functions  
+- `main.py` — script to run the project  
+- `test_module.py` — automated tests provided by freeCodeCamp  
+- `requirements.txt` — project dependencies  
