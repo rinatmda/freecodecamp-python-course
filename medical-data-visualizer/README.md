@@ -6,14 +6,15 @@ It was completed starting from the provided starter code, with all core analysis
 
 ---
 
-## What I Did
+## Overview
 
-- Cleaned and preprocessed raw medical data (height, weight, blood pressure, lifestyle factors)
-- Engineered features (BMI categories, risk indicators)
-- Created visualizations using **Matplotlib** and **Seaborn**:
-  - Categorical bar plots
-  - Correlation heatmaps
-- Ensured all automated tests pass
+Analyzes medical examination data (`medical_examination.csv`) to explore health indicators such as:
+
+- BMI (overweight vs normal)  
+- Cholesterol and glucose levels  
+- Lifestyle factors (smoking, alcohol, physical activity)
+
+Generates visual insights through **categorical bar plots** and **correlation heatmaps**.
 
 ---
 
@@ -23,9 +24,13 @@ Python | Pandas | NumPy | Matplotlib | Seaborn | Data Cleaning | Feature Enginee
 
 ---
 
-## Project Structure
+## Files
 
-- `medical_data_visualizer.py` — data processing and plotting functions  
-- `main.py` — script to run the project  
-- `test_module.py` — automated tests provided by freeCodeCamp  
+- `medical_data_visualizer.py` — data processing and plotting  
+- `main.py` — run project  
+- `test_module.py` — automated tests  
 - `requirements.txt` — project dependencies  
+- `medical_examination.csv` — dataset
+
+---
+
