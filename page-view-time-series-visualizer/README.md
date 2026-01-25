@@ -3,9 +3,7 @@
 This project is a solution to the **Page View Time Series Visualizer** project from FreeCodeCamp’s  
 [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/page-view-time-series-visualizer) course.
 
-The project analyzes time series data of daily page views on the freeCodeCamp forum using Python and common data analysis libraries.
-
-> Note: This project uses starter code provided by freeCodeCamp. The main task was to implement data cleaning and visualization functions in `time_series_visualizer.py`. Unit tests were used to verify the solution.
+The project analyzes time series data of daily page views on the freeCodeCamp forum using Python and common data analysis libraries. It was completed starting from the provided starter code, with all core analysis and visualizations implemented by the author.
 
 ---
 
@@ -38,3 +36,4 @@ Python | Pandas | NumPy | Matplotlib | Seaborn | Data Cleaning | Time Series Ana
 - `requirements.txt` — project dependencies  
 - `fcc-forum-pageviews.csv` — dataset 
 - `line_plot.png`, `bar_plot.png`, `box_plot.png` — example outputs
+
